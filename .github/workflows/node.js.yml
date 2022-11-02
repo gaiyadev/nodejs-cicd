@@ -27,5 +27,4 @@ jobs:
    # - run: npm cinodejs-cicd
     - run: npm run build --if-present
     - run: npm install
-    - run: npm run start:dev
 #     - run: sudo pm2 restart backend
